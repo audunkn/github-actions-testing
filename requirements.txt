@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 pytest
-click
-=======
-pytest
-click
->>>>>>> d48e7f280f4bb6ba8e59c94eb49d36e7feb45fbe
